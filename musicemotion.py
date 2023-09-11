@@ -5,8 +5,8 @@ from fer import FER
 import base64
 
 # Constants
-SPOTIPY_CLIENT_ID = '19ec4724daa6435781a505dc1a45262d'
-SPOTIPY_CLIENT_SECRET = '02e87b75fd574ecca5eeb05face9a2be'
+SPOTIPY_CLIENT_ID = 'YOUR SPOTIFY CLIENT ID '
+SPOTIPY_CLIENT_SECRET = 'YOUR SPOTIFY CLIENT SECRET'
 EMOTION_LABELS = ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']
 
 # Initialize Spotify API client
